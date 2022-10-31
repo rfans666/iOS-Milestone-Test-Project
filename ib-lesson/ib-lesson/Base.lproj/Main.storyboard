@@ -27,10 +27,6 @@
                                     <action selector="btn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="x4r-9U-SYp"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2p7-Fk-hpc">
-                                <rect key="frame" x="75" y="96" width="240" height="128"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="🟦🟥🟩🟨🟪" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DR6-BW-PWZ">
                                 <rect key="frame" x="127.66666666666669" y="328" width="135" height="29"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
